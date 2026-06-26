@@ -41,9 +41,10 @@ AutoFlow Studio 是一款**可视化桌面自动化工具**，采用节点编排
 
 ### 下载安装
 
-> **下载方式**：添加 QQ 获取安装包
+> **下载方式**：
 >
 > QQ: **305051029**
+> Github:https://github.com/Is-me-ch/desktop-automation-Automated-work/releases/tag/v1.2
 
 下载后解压即可使用，无需安装 Python 环境。
 
